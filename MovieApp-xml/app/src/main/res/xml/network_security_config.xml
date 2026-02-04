@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <!-- 仅放行 HTTP 明文访问 www.omdbapi.com（含子域） -->
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">www.omdbapi.com</domain>
+    </domain-config>
+</network-security-config>
