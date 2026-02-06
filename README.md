@@ -1,6 +1,6 @@
 # Movie Searching App
 
-简体中文说明 — 包含两个变体：Compose 与 XML
+包含两个变体：Compose 与 XML
 
 **项目简介**
 
@@ -56,8 +56,5 @@ cd ..\MovieApp-xml
 
 欢迎提交 issue 或 PR。请在提交前运行格式化和相关测试。
 
-**License**
-
-请在仓库中添加或替换为合适的开源许可证（例如 MIT、Apache-2.0）。
 
 
