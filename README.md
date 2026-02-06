@@ -60,6 +60,4 @@ cd ..\MovieApp-xml
 
 请在仓库中添加或替换为合适的开源许可证（例如 MIT、Apache-2.0）。
 
----
 
-文件位置：本说明位于工作区根目录，包含了 `MovieApp-Compose/` 与 `MovieApp-xml/` 两个子项目的基本使用说明。
